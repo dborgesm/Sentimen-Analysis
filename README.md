@@ -126,4 +126,4 @@ The embedding that used the Bidirectional GRU with CNNs had better performance i
 
 For this data set the embedding that worked best was Glove using the Bidirectional GRU with CNNs. All the changes and modifications to the models were done by observing the behavior of the validation and training loss, however because of the iterating trend of the validation losses I am assuming these models are too simple and must be improved to obtain better performance.
 
-
+Here are the codes for [Data Preprocessing and EDA](https://github.com/dborgesm/Sentiment-Analysis/blob/master/Data_preprocessing_and_Embeddings.ipynb) and for [Modelling](https://github.com/dborgesm/Sentiment-Analysis/blob/master/Modelling%20Sentiment%20Analysis.ipynb)
